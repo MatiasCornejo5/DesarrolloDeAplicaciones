@@ -1,0 +1,5 @@
+01 - funcion esPar
+Escribe una función llamada esPar, que retorne un valor booleano: verdadero si el número ingresado es par, y falso en caso contrario.
+
+Responde con un enlace al EsJS Editor con tu solución:
+https://editor.esjs.dev/?code=GYVwdgxgLglg9mABAUwM4AUCGAnAFGEAW2WzgEpEBvAKEUQBtkpFs0R6pMATORAXjrBM9VMlqIYwRPiIleAUkQAmfgIAMFGnTqtU7Tj36Io2EGLoBfcayghsSXfu5xqVoA&tests=A4JwrgpgRghgzgCgN4CgAEaDkAmNE5rAwiYBcaCAlGgLwB8aqGGMAZgJYgC2xC%2BACr2yVK6NAF8ANCjGYAzGgB2AezwEiJclVoMmzNpx4gAkgHMwMADb4ErK3GWS1gkAjkixUmRkyKwXCBBlAisIGAAXZRB2YLIKanpGMQwNGAoAN2I0dlo0AAYAbmy0AB40AFYi9gBqauo9ZjQAY2VFOHClf0DVGjQAWQiIADoQCAATVrGwkAAJGCb2GABBWAArZQQB8OHQiKiY7QAqNABGPLzRRoxk-Q5uYjMLa0Q-AKC0AFI0XBpf-KcBLxXt0PI1xJ5pOJREA&layout=horizontal&hidePreview=true&hideEditor=false&hideConsole=false&hideTests=true&readonlyCode=false&readonlyTests=false&preview=%7B%22terminal%22%3Atrue%7D&previewTab=%7B%22console%22%3Atrue%2C%22flowchart%22%3Afalse%2C%22hidden%22%3Atrue%7D&language=js&embed=false&hideOptions=false

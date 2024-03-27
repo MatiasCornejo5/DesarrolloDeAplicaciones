@@ -33,3 +33,8 @@ Escribe una función llamada esMultiplo, que reciba un número entero, y retorne
 
 Responde con un enlace al EsJS Editor con tu solución:
 https://editor.esjs.dev/?code=GYVwdgxgLglg9mABAUwM4FkQBtYActwAUYIAtsgE5wCUiA3gFCLOJbJSIVrZQCGAJnEQBeRMF5ZUyJixjBEhNABEYANxioYAIzbEylOABpEAZloAycylQr1mncj3kqxgIwBWarUYtfnbjgCQqJQFCDSvgC%2BMsxcUCAUSFyoPEEy0cygkLAI1rYa2roAgsYAQt4xrOz%2BKYGCIpkSUpVyCkWIAKSIpSKiAAwVfjWp9SFhESwZLHEJSQF8ggyRQA&tests=A4JwrgpgRghgzgCgN4CgAEG0HIDMAGNCONAWzABsAXAS2HIHs0ATCNHNATzQEYBWLAFxoAZmAB2AY2r0xaBAEo0qTCrQxh1ECRggAkgHMwMckQQA3CCCYwWIegBpCcALIUadegnzz56TAF97FD8MLF40MUYiUjdaBmZWdi4%2BQRFxKRk5RWVVDHVNbT1DY1NhYzgHJ1cqOM9eHxC0QOCVLABOCKjiMhqPBLZOHn4hUUlpWQUlRpV8rR0DIxNEMvIKxyJq9wYENoaVQJUUf18gA&layout=horizontal&hidePreview=false&hideEditor=false&hideConsole=false&hideTests=true&readonlyCode=false&readonlyTests=false&preview=%7B%22terminal%22%3Atrue%7D&previewTab=%7B%22console%22%3Atrue%2C%22flowchart%22%3Afalse%2C%22hidden%22%3Atrue%7D&language=js&embed=false&hideOptions=false
+
+07 - funcion contieneABC
+Escribe una función llamada contieneABC, que reciba un valor alfanumérico, y retorne un valor booleano indicando si dicho valor contiene la sucesión de caracteres abc.
+
+Responde con un enlace al EsJS Editor con tu solución:
